@@ -1,7 +1,7 @@
 # StudentCompanionApplication_Mark_2
 A application to assist students with there daily lives
 Ismail Vardien
-
+<img src = "UML.png" />
 213180545
 
 Class Group 3G
